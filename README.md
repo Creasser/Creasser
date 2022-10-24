@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Creasser
+- 👋 Hi, I’m Blake Creasser!
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning to code!
 - 📫 How to reach me: blakecreasser@aggienetwork.com

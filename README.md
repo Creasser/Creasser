@@ -10,11 +10,10 @@
   - React
   - Ruby (learning now!)
 
-- Current Languages
-  - HTML
-  - CSS
-  - React
-  - Ruby (learning now!)
+- Languages I plan on learning
+  - Rails
+  - Python
+  - TypeScript
   
  
 <!---

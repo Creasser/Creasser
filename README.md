@@ -8,7 +8,7 @@
   - HTML
   - CSS
   - React
-  - Ruby (learning now!)
+  - Ruby
 
 - Languages I plan on learning
   - Rails

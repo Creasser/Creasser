@@ -10,7 +10,7 @@
   - React
   - Ruby
 
-- Languages I plan on learning
+- Languages/Frameworks I plan on learning
   - Rails
   - Python
   - TypeScript

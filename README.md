@@ -8,6 +8,7 @@
   - CSS
   - JavaScript
   - React
+    - React-Router-Dom
   - Ruby
     - Sinatra
     - ActiveRecord
@@ -15,11 +16,11 @@
 - Languages I am currently learning
   - Rails
 
-- Languages I plan on learning
+- Languages/Frameworks/Libraries I plan on learning
+  - Redux 
   - Python
   - TypeScript
   
-- Current Project
  
 <!---
 Creasser/Creasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

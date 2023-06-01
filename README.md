@@ -12,6 +12,7 @@
   - Ruby
     - Sinatra
     - ActiveRecord
+    - BCrypt
 
 - Languages I am currently learning
   - Rails

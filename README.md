@@ -18,7 +18,7 @@
   - Redux 
   - Python
   - TypeScript
- - Current Project: CCManagement, a web app made to simplify finding contractors for your jobs!
+ - Current Project: TriXster, a web app made to track snowboard trick progression!
  
 <!---
 Creasser/Creasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

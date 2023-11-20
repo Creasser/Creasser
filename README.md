@@ -12,11 +12,11 @@
     - Sinatra
     - ActiveRecord
     - BCrypt
-- Languages I am currently learning
   - Rails
+- Languages I am currently learning
+  - Python
 - Languages/Frameworks/Libraries I plan on learning
   - Redux 
-  - Python
   - TypeScript
  - Current Project: TriXster, a web app made to track snowboard trick progression!
  

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blake Creasser!
 - 👀 I’m interested in full stack development!
-- 🌱 I’m currently learning to code at Flatiron School!
-- 📫 How to reach me: blakecreasser@aggienetwork.com
+- 🌱 I’m currently working and training with Dev-10!
+- 📫 How to reach me: bcreasser@gmail.com
 - Languages/Frameworks/Libraries
   - HTML
   - CSS
@@ -14,11 +14,7 @@
     - BCrypt
   - Rails
 - Languages I am currently learning
-  - Python
-- Languages/Frameworks/Libraries I plan on learning
-  - Redux 
-  - TypeScript
- - Current Project: TriXster, a web app made to track snowboard trick progression!
+  - Java!
  
 <!---
 Creasser/Creasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
